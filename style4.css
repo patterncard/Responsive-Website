@@ -3,6 +3,13 @@ body {
 }
 
 p {
-    font-size: 1rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-family: 'Syne Mono', monospace;
+font-family: 'Syne Tactile',cursive;
+}
+
+.keypoint {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
 }
